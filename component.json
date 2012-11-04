@@ -1,5 +1,9 @@
 {
   "name": "recorder",
+  "remotes": [
+    "https://keradeployer:KrhUUytb6KZEGcobvN3h@raw.github.com/"
+  ],
+
   "dependencies": {
     "component/underscore": "*",
     "kera-inc/detect_selector": "*",
