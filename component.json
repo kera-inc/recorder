@@ -6,6 +6,7 @@
 
   "dependencies": {
     "component/underscore": "*",
+    "component/jquery": "1.8.2",
     "kera-inc/detect_selector": "*",
     "kera-inc/guid": "*"
   },
