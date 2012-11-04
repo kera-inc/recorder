@@ -1,1 +1,1 @@
-module.exports = require('lib/models/recorder');
+module.exports = require('./lib/models/recorder');
