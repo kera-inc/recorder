@@ -1,0 +1,15 @@
+{
+  "name": "recorder",
+  "version": "0.0.1",
+  "author": "Kera Software Inc <services@kera.io>",
+  "private": true,
+  "devDependencies": {
+    "mocha": "1.6.0",
+    "expect.js": "0.1.2",
+    "sinon": "1.5.0",
+    "jquery": "1.7.3",
+    "underscore": "*",
+    "detect_selector": "git+https://keradeployer:KrhUUytb6KZEGcobvN3h@github.com/kera-inc/detect_selector.git",
+    "guid": "git+https://keradeployer:KrhUUytb6KZEGcobvN3h@github.com/kera-inc/guid.git"
+  }
+}
