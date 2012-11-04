@@ -1,7 +1,9 @@
 {
   "name": "recorder",
   "dependencies": {
-    "component/underscore": "*"
+    "component/underscore": "*",
+    "kera-inc/detect_selector": "*",
+    "kera-inc/guid": "*"
   },
   "scripts": [
     "index.js",
