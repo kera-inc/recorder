@@ -1,20 +1,20 @@
 {
   "name": "recorder",
   "dependencies": {
-    "components/underscore": "*"
+    "component/underscore": "*"
   },
   "scripts": [
     "index.js",
-    "interceptors/index.js",
-    "interceptors/click.js",
-    "interceptors/move.js",
-    "listeners/index.js",
-    "listeners/click.js",
-    "listeners/move.js",
-    "models/event_bus.js",
-    "models/record_buffer.js",
-    "models/recorder.js",
-    "transformers/click.js",
-    "transformers/move.js",
+    "lib/interceptors/index.js",
+    "lib/interceptors/click.js",
+    "lib/interceptors/move.js",
+    "lib/listeners/index.js",
+    "lib/listeners/click.js",
+    "lib/listeners/move.js",
+    "lib/models/event_bus.js",
+    "lib/models/record_buffer.js",
+    "lib/models/recorder.js",
+    "lib/transformers/click.js",
+    "lib/transformers/move.js"
   ]
 }
